@@ -30,14 +30,14 @@
 ## Roadmap
 
 #### Part 1: WeatherPy
--[x] Create Plots to Showcase the Relationship Between Weather Variables and Latitude.
+- [x] Create Plots to Showcase the Relationship Between Weather Variables and Latitude.
 
--[x] Compute Linear Regression for Each Relationship.
+- [x] Compute Linear Regression for Each Relationship.
 
 #### Part 2: VacationPy
--[x] Create a map that displays a point for every city.
+- [x] Create a map that displays a point for every city.
 
--[x] Narrow down the DataFrame to find an ideal weather condition.
+- [x] Narrow down the DataFrame to find an ideal weather condition.
 
 <!-- CONTACT -->
 ## Contact
