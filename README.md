@@ -2,7 +2,7 @@
 <a name="readme-top"></a>
 
 
-<h3 align="center">python-api-challenge</h3>
+<h3 align="center">Python API Challenge</h3>
 
   <p align="center">
   </p>
