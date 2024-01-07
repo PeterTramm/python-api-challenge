@@ -10,7 +10,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<p>The goal of this project was to obtain weather data from an API source and analyze weather properties relationships with latitude and longitutde coordinates
+<p>The goal of this project was to obtain weather data from an API source and analyze weather properties relationships with latitude and longitutde coordinates.
 </p>
 
 ### Built With
@@ -30,12 +30,14 @@
 ## Roadmap
 
 #### Part 1: WeatherPy
--[x] Create Plots to Showcase the Relationship Between Weather Variables and Latitude
--[x] Compute Linear Regression for Each Relationship
+-[x] Create Plots to Showcase the Relationship Between Weather Variables and Latitude.
+
+-[x] Compute Linear Regression for Each Relationship.
 
 #### Part 2: VacationPy
--[x] Create a map that displays a point for every city
--[x] Narrow down the DataFrame to find an ideal weather condition
+-[x] Create a map that displays a point for every city.
+
+-[x] Narrow down the DataFrame to find an ideal weather condition.
 
 <!-- CONTACT -->
 ## Contact
