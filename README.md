@@ -25,7 +25,6 @@
     * [Time](https://docs.python.org/3/library/time.html)
     * [os](https://docs.python.org/3/library/os.html)
 
-
 <!-- ROADMAP -->
 ## Roadmap
 
@@ -45,9 +44,6 @@
 Peter Tram  - peter.tram@hotmail.com
 
 Project Link: [https://github.com/PeterTramm/python-api-challenge](https://github.com/PeterTramm/python-api-challenge)
-
-
-
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
